@@ -1,6 +1,6 @@
 ![LinkedIn_profile_Banner_Niko](https://github.com/user-attachments/assets/a1fc235d-e7b9-4898-8605-0764f332024d)
 
-<h1 align="left">Hello everyone! My name is Niko Crnčec and I'm a IT student from Varaždin, Croatia. 🎓</h1>
+<h1 align="left">Hello world! My name is Niko Crnčec and I'm a IT student from Varaždin, Croatia. 🎓</h1>
 
 ###
 
