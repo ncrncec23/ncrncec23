@@ -99,6 +99,3 @@
 </div>
 
 ###
-
-![LinkedIn Profile Banner - 13](https://github.com/user-attachments/assets/a22f19f5-a748-4377-80ef-015398569dbe)
-
