@@ -6,21 +6,17 @@
 
 ###
 
-<img align="right" height="220" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
-
-###
-
 <h4 align="left">I am passionate about software development using C#, .NET, and Entity Framework, with a strong focus on building desktop applications using WinForms or WPF. In addition to desktop development, I enjoy creating web applications with JavaScript, HTML, and CSS. My goal is to expand into mobile development and continue improving my skills in both web and desktop technologies. I'm also interested in exploring application development in the fields of AI, machine learning, and deep learning in the future.</h4>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">🧑‍💻 GITHUB STATS 🔥</h1>
+<h1 align="left">🧑‍💻 GITHUB STATS 🔥</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ncrncec23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncrncec23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -37,11 +33,11 @@
 
 ###
 
-<h1 align="center">🌐 SOCIAL MEDIA 🌐</h1>
+<h1 align="left">🌐 SOCIAL MEDIA 🌐</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://web.facebook.com/niko.crncec/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
@@ -58,11 +54,11 @@
 
 ###
 
-<h1 align="center">💡 TECH STACK 🧠</h1>
+<h1 align="left">💡 TECH STACK 🧠</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
