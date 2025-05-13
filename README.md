@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hello world! My name is Niko Crnčec and I'm a IT student from Varaždin, Croatia. 💻</h2>
+<h2 align="left">Hello world! My name is Niko Crnčec and I'm a IT student from Croatia. 💻</h2>
 
 ###
 
