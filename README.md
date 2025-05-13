@@ -1,4 +1,6 @@
-<h1 align="left">Hello everyone! My name is Niko Crnčec and I'm a IT student from Varaždin, Croatia. 💻🎓</h1>
+![LinkedIn_profile_Banner_Niko](https://github.com/user-attachments/assets/a1fc235d-e7b9-4898-8605-0764f332024d)
+
+<h1 align="left">Hello everyone! My name is Niko Crnčec and I'm a IT student from Varaždin, Croatia. 🎓</h1>
 
 ###
 
@@ -13,38 +15,7 @@
 
 ###
 
-<h2 align="left">Follow me on social media</h2>
-
-###
-
-<div align="center">
-  <a href="https://web.facebook.com/niko.crncec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/niko_crncec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nikocrncec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="niko.crncec23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ncrncec23/ncrncec23/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ncrncec23/ncrncec23/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ncrncec23/ncrncec23/output/github-snake.svg" />
-</picture>
-
-###
-
-<h2 align="left">I currently have experience with the following technologies</h2>
+<h2 align="left">💻 I currently have experience with the following technologies</h2>
 
 ###
 
@@ -91,3 +62,37 @@
 </div>
 
 ###
+
+<br clear="both">
+
+###
+
+<h2 align="left">👀 Follow me on social media</h2>
+
+###
+
+<div align="center">
+  <a href="https://web.facebook.com/niko.crncec/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/niko_crncec/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nikocrncec/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="niko.crncec23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ncrncec23/ncrncec23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ncrncec23/ncrncec23/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ncrncec23/ncrncec23/output/github-snake.svg" />
+</picture>
+
