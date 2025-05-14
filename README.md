@@ -84,3 +84,11 @@
 </picture>
 
 ###
+
+<h1 align="left">💬 SOCIAL MEDIA 📢</h1>
+
+<ul>
+  <li>💼 <a href="">LinkedIn</a> - check out my LinkedIn profile</li>
+  <li>👍 <a href="">Facebook</a> - check out my Facebook profile</li>
+  <li>📸 <a href="">Instagram</a> - check out my Instagram profile</li>
+</ul>
