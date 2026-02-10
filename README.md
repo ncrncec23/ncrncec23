@@ -1,78 +1,162 @@
-![LinkedIn_profile_Banner_Niko](https://github.com/user-attachments/assets/a1fc235d-e7b9-4898-8605-0764f332024d)
-
-<h2 align="left">🌐 Hello world! My name is Niko Crnčec and I'm a IT student from Varaždin, Croatia. 🏰</h2>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ncrncec23.ncrncec23&right_color=darkcyan"  />
+</div>
 
 ###
 
-<p>I am passionate about software development using C#, .NET, and Entity Framework, with a strong focus on building desktop applications using WinForms or WPF. In addition to desktop development, I enjoy creating web applications with JavaScript, HTML, and CSS. My goal is to expand into mobile development and continue improving my skills in both web and desktop technologies. I'm also interested in exploring application development in the fields of AI, machine learning, and deep learning in the future.<p>
+<img src="banner.png">
+
+###
+
+<h1 align="center">👋 Hi, my name is Niko Crnčec, IT student @ FOI Varaždin, Croatia.</h1>
+
+<p align="left">
+  Passionate primarily backend-focused software developer working on modern web applications using technologies such as Node.js, Express, TypeScript, Angular, and NestJS. I am especially interested in backend and data-driven solutions with Python, Flask, PostgreSQL, and Power BI, as well as desktop application development in C# using WinForms, LINQ, and Entity Framework. Currently exploring advanced concepts in web development and Node.js, with a strong interest in future mobile development using Flutter (Dart) and Kotlin.
+</p>
+
+###
 
 <h3><strong>More interesting facts about me</strong> 🙋‍♂️</h3>
 
 <ul>
   <li>I study <a href="https://www.foi.unizg.hr/hr/studiji/itdp">Information Technologies and Business Digitalization</a>, specialization <strong>Application Development 🧑‍💻</strong>, at <a href="https://www.foi.unizg.hr/">FOI</a>🔴 in Varaždin.</li>
-  <li>My girlfriend is also a student at the same faculty, and we support each other through our studies.</li>
+  <li>I love sports like basketball, football and handball. 🏀</li>
+  <li>Besides sport I enjoy e-sports and videogames like Rocket League, League of legends, CS2 and many more competitive videogames. 🎮</li>
   <li>I enjoy drinking beer 🍺 and playing darts 🎯 in my free time – it helps me relax after coding sessions.</li>
 </ul>
 
-<h3>Also, if you like my work ⬇️</h3>
+###
 
-<p>Check out my personal website: <a href="https://ncrncec23.github.io/Web-portofolio/">Web-portofilo</a></p>
+<h3><strong>📽️ My top projects 🎓</strong><h3>
 
 ###
 
-<br clear="both">
+```json
+{
+  "name": "Niko Crnčec",
+  "role": "Fullstack Web developer / IT student",
+  "years": 21,
+  "date-of-birth": "18.02.2005",
+  "my-top-projects": [
+    {
+      "name": "Astera",
+      "description": "Web application for IT project managment",
+      "technologies": ["Node.js", "Typescript", "Angular", "JWT", "SQLite"],
+      "information": "This project is still under development"
+    },
+    {
+      "name": "Facial recognition application",
+      "description": "Python application for face recognition using deep learning models",
+      "technologies": ["Python", "Tensorflow", "Jupyter Notebook"],
+      "information": "This project is done and ready for use, detailed description is in projects README.md"
+    },
+    {
+      "name": "Task managment application",
+      "description": "Flask web application for managing tasks",
+      "technologies": ["Python", "Flask", "JavaScript", "SQLite"],
+      "information": "This project is done and ready for use, detailed description is in projects README.md"
+    },
+    {
+      "name": "CloudMate",
+      "description": "Web weather application using OpenWeatherMap API.",
+      "technologies": ["JavaScript", "HTML", "CSS", "REST API"],
+      "information": "This project is done and ready for use, detailed description is in projects README.md"
+    },
+    {
+      "name": "FinSync",
+      "description": "Personal finance tracking desktop application",
+      "technologies": ["C#", "LINQ", "Entity Framework", "Windows Forms"],
+      "information": "This project is done but it is a private repository."
+    }
+  ]
+}
+```
 
-<h1 align="left">🧑‍💻 GITHUB STATS 🔥</h1>
+###
+
+<h2 align="left">💡 GITHUB STATS 📚</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ncrncec23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncrncec23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ncrncec23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncrncec23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h1 align="left">💡 TECH STACK 🧠</h1>
+<h2 align="left">💻 TECH STACK 🧑‍💻</h2>
 
 ###
 
-<br clear="both">
-
 <div align="left">
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="32" alt="csharp logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="32" alt="cplusplus logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="32" alt="opencv logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="32" alt="tensorflow logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="32" alt="html5 logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="32" alt="css3 logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="32" alt="bootstrap logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="32" alt="figma logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="32" alt="microsoftsqlserver logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="32" alt="mysql logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white&style=for-the-badge" height="32" alt="nuget logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="32" alt="python logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="32" alt="r logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="32" alt="visualstudio logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="32" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" alt="typescript logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="43" alt="nodejs logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="43" alt="angularjs logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="43" alt="nestjs logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="43" alt="apache logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="43" alt="bash logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="43" alt="cplusplus logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="43" alt="postgresql logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="43" alt="microsoftsqlserver logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="43" alt="sqlite logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="43" alt="linux logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="43" alt="bootstrap logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="43" alt="flask logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="43" alt="visualstudio logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="43" alt="vscode logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="43" alt="express logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="43" alt="jira logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="43" alt="kaggle logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="43" alt="npm logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="43" alt="nuget logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="43" alt="vim logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="43" alt="windows8 logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="43" alt="filezilla logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="43" alt="jupyter logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="43" alt="wordpress logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="43" alt="rstudio logo"  />
 </div>
 
 ###
@@ -85,10 +169,23 @@
 
 ###
 
-<h1 align="left">💬 SOCIAL MEDIA 📢</h1>
+<h2 align="left">📱 LET'S CONNECT! 🎉</h2>
 
-<ul>
-  <li>💼 <a href="https://www.linkedin.com/in/nikocrncec/">LinkedIn</a> - check out my LinkedIn profile</li>
-  <li>👍 <a href="https://www.facebook.com/niko.crncec/">Facebook</a> - check out my Facebook profile</li>
-  <li>📸 <a href="https://www.instagram.com/niko_crncec/">Instagram</a> - check out my Instagram profile</li>
-</ul>
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nikocrncec/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/31724200/niko-crn%c4%8dec" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.facebook.com/niko.crncec/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/niko_crncec/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+###
