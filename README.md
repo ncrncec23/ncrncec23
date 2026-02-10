@@ -1,3 +1,5 @@
+###
+
 <img src="banner.png">
 
 ###
@@ -7,6 +9,10 @@
 <p align="left">
   Passionate primarily backend-focused software developer working on modern web applications using technologies such as Node.js, Express, TypeScript, Angular, and NestJS. I am especially interested in backend and data-driven solutions with Python, Flask, PostgreSQL, and Power BI, as well as desktop application development in C# using WinForms, LINQ, and Entity Framework. Currently exploring advanced concepts in web development and Node.js, with a strong interest in future mobile development using Flutter (Dart) and Kotlin.
 </p>
+
+###
+
+<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ncrncec23&theme=merko" alt="ncrncec23" /></p>
 
 ###
 
@@ -25,8 +31,8 @@
 
 ###
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ncrncec23&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ncrncec23&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncrncec23&theme=merko)
 
 ###
 
