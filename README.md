@@ -173,6 +173,7 @@
   <li>💼 <a href="https://www.linkedin.com/in/nikocrncec/">LinkedIn</a> - check out my LinkedIn profile</li>
   <li>👍 <a href="https://www.facebook.com/niko.crncec/">Facebook</a> - check out my Facebook profile</li>
   <li>📸 <a href="https://www.instagram.com/niko_crncec/">Instagram</a> - check out my Instagram profile</li>
+  <li>💻 <a href="https://stackoverflow.com/users/31724200/niko-crn%c4%8dec">StackOverflow</a> - check out my StackOverflow profile</li>
 </ul>
 
 ###
