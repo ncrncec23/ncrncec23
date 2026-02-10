@@ -12,6 +12,10 @@
 
 ###
 
+<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ncrncec23&theme=merko" alt="ncrncec23" /></p>
+
+###
+
 <h3><strong>More interesting facts about me</strong> 🙋‍♂️</h3>
 
 <ul>
@@ -27,10 +31,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ncrncec23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncrncec23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ncrncec23&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncrncec23&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncrncec23&theme=merko)
 
 ###
 
@@ -106,28 +109,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="43" alt="wordpress logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="43" alt="rstudio logo"  />
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp" />
-  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver" />
-  <img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite" />
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
 </div>
 
 ###
