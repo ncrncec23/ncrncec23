@@ -12,10 +12,6 @@
 
 ###
 
-<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ncrncec23&theme=merko" alt="ncrncec23" /></p>
-
-###
-
 <h3><strong>More interesting facts about me</strong> 🙋‍♂️</h3>
 
 <ul>
@@ -27,16 +23,16 @@
 
 ###
 
-<h2 align="left">💡 GITHUB STATS 📚</h2>
+<h1 align="left">💡 GITHUB STATS 📚</h1>
 
 ###
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=ncrncec23&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ncrncec23&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncrncec23&theme=merko)
 
 ###
 
-<h2 align="left">💻 TECH STACK 🧑‍💻</h2>
+<h1 align="left">💻 TECH STACK 🧑‍💻</h1>
 
 ###
 
@@ -167,23 +163,12 @@
 
 ###
 
-<h2 align="left">📱 LET'S CONNECT! 🎉</h2>
+<h1 align="left">💬 SOCIAL MEDIA 📢</h1>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nikocrncec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/31724200/niko-crn%c4%8dec" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.facebook.com/niko.crncec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/niko_crncec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-</div>
+<ul>
+  <li>💼 <a href="https://www.linkedin.com/in/nikocrncec/">LinkedIn</a> - check out my LinkedIn profile</li>
+  <li>👍 <a href="https://www.facebook.com/niko.crncec/">Facebook</a> - check out my Facebook profile</li>
+  <li>📸 <a href="https://www.instagram.com/niko_crncec/">Instagram</a> - check out my Instagram profile</li>
+</ul>
 
 ###
