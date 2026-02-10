@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">👋 Hi, my name is Niko Crnčec, IT student @ FOI Varaždin, Croatia.</h1>
+<h1 align="left">👋 Hi, my name is Niko Crnčec, IT student @ FOI Varaždin</h1>
 
 <p align="left">
   Passionate primarily backend-focused software developer working on modern web applications using technologies such as Node.js, Express, TypeScript, Angular, and NestJS. I am especially interested in backend and data-driven solutions with Python, Flask, PostgreSQL, and Power BI, as well as desktop application development in C# using WinForms, LINQ, and Entity Framework. Currently exploring advanced concepts in web development and Node.js, with a strong interest in future mobile development using Flutter (Dart) and Kotlin.
