@@ -1,5 +1,3 @@
-###
-
 <img src="banner.png">
 
 ###
