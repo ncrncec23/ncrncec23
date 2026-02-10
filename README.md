@@ -32,6 +32,7 @@
 ###
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ncrncec23&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ncrncec23&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncrncec23&theme=merko)
 
 ###
