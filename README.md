@@ -21,7 +21,7 @@
 <ul>
   <li>I study <a href="https://www.foi.unizg.hr/hr/studiji/itdp">Information Technologies and Business Digitalization</a>, specialization <strong>Application Development 🧑‍💻</strong>, at <a href="https://www.foi.unizg.hr/">FOI</a>🔴 in Varaždin.</li>
   <li>I love sports like basketball, football and handball. 🏀</li>
-  <li>Besides sport I enjoy e-sports and videogames like Rocket League, League of legends, CS2 and many more competitive videogames. 🎮</li>
+  <li>Besides sport I enjoy e-sports and videogames like Rocket League, League of legends and CS2. 🎮</li>
   <li>I enjoy drinking beer 🍺 and playing darts 🎯 in my free time – it helps me relax after coding sessions.</li>
 </ul>
 
